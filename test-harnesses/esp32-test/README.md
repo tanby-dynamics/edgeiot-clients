@@ -1,9 +1,10 @@
 # Edge IoT test for ESP32
 
 ## Build
+Install ESP-IDF from [here](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/windows-setup.html).
 
-```
-idf.py set-target esp32
-idf.py build
-idf.py -p COM4 flash
-```
+Open an ESP-IDF PowerShell shell and run `.\flash.ps1`.
+
+
+
+
